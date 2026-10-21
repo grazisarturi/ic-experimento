@@ -87,3 +87,20 @@ SonarQube
    ↓
 Build
 ```
+## Evidências da análise de qualidade
+
+### Pipeline
+
+![Pipeline](docs/evidencias/pipeline.png)
+
+### Etapa SonarQube no GitHub Actions
+
+![Etapa SonarQube](docs/evidencias/sonar-step.png)
+
+### Dashboard do SonarQube Cloud
+
+![SonarQube](docs/evidencias/sonarqube.png)
+
+### Quality Gate
+
+![Quality Gate](docs/evidencias/quality-gate.png)
